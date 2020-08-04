@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amarjitsingh65/react-proj-basic/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/amarjitsingh65/react-proj-basic/static/js/main.49d51086.chunk.js",
+    "main.js.map": "/amarjitsingh65/react-proj-basic/static/js/main.49d51086.chunk.js.map",
+    "runtime-main.js": "/amarjitsingh65/react-proj-basic/static/js/runtime-main.980b7995.js",
+    "runtime-main.js.map": "/amarjitsingh65/react-proj-basic/static/js/runtime-main.980b7995.js.map",
+    "static/js/2.c7adede6.chunk.js": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js",
+    "static/js/2.c7adede6.chunk.js.map": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js.map",
+    "index.html": "/amarjitsingh65/react-proj-basic/index.html",
+    "precache-manifest.472924176b2c5977f939cc2f4a3a5591.js": "/amarjitsingh65/react-proj-basic/precache-manifest.472924176b2c5977f939cc2f4a3a5591.js",
+    "service-worker.js": "/amarjitsingh65/react-proj-basic/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/amarjitsingh65/react-proj-basic/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c7adede6.chunk.js.LICENSE.txt": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.980b7995.js",
+    "static/js/2.c7adede6.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.49d51086.chunk.js"
+  ]
+}
