@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/amarjitsingh65/react-proj-basic/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/amarjitsingh65/react-proj-basic/static/js/main.49d51086.chunk.js",
-    "main.js.map": "/amarjitsingh65/react-proj-basic/static/js/main.49d51086.chunk.js.map",
+    "main.css": "/amarjitsingh65/react-proj-basic/static/css/main.5f361e03.chunk.css",
+    "main.js": "/amarjitsingh65/react-proj-basic/static/js/main.ceee2a5b.chunk.js",
+    "main.js.map": "/amarjitsingh65/react-proj-basic/static/js/main.ceee2a5b.chunk.js.map",
     "runtime-main.js": "/amarjitsingh65/react-proj-basic/static/js/runtime-main.980b7995.js",
     "runtime-main.js.map": "/amarjitsingh65/react-proj-basic/static/js/runtime-main.980b7995.js.map",
-    "static/js/2.c7adede6.chunk.js": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js",
-    "static/js/2.c7adede6.chunk.js.map": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js.map",
+    "static/js/2.942998bb.chunk.js": "/amarjitsingh65/react-proj-basic/static/js/2.942998bb.chunk.js",
+    "static/js/2.942998bb.chunk.js.map": "/amarjitsingh65/react-proj-basic/static/js/2.942998bb.chunk.js.map",
     "index.html": "/amarjitsingh65/react-proj-basic/index.html",
-    "precache-manifest.472924176b2c5977f939cc2f4a3a5591.js": "/amarjitsingh65/react-proj-basic/precache-manifest.472924176b2c5977f939cc2f4a3a5591.js",
+    "precache-manifest.38bc1bc651bf036177343eb0c3a36bad.js": "/amarjitsingh65/react-proj-basic/precache-manifest.38bc1bc651bf036177343eb0c3a36bad.js",
     "service-worker.js": "/amarjitsingh65/react-proj-basic/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/amarjitsingh65/react-proj-basic/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.c7adede6.chunk.js.LICENSE.txt": "/amarjitsingh65/react-proj-basic/static/js/2.c7adede6.chunk.js.LICENSE.txt"
+    "static/css/main.5f361e03.chunk.css.map": "/amarjitsingh65/react-proj-basic/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.942998bb.chunk.js.LICENSE.txt": "/amarjitsingh65/react-proj-basic/static/js/2.942998bb.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/amarjitsingh65/react-proj-basic/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.980b7995.js",
-    "static/js/2.c7adede6.chunk.js",
-    "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.49d51086.chunk.js"
+    "static/js/2.942998bb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ceee2a5b.chunk.js"
   ]
 }
